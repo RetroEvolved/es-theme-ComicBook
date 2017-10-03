@@ -2,7 +2,7 @@ Theme 'ComicBook' v2.6 - 06-13-2017 by TMNTturtlguy
 Controller.svg from "carbon" Eric Hettervik (Rookervik) RYOKAI.DEVIANTART.COM
 Theme Concept based on images posted by: lipebello on Retropie.org.uk/forum
 For use with EmulationStation (http://www.emulationstation.org/)
-Edited by RetroEvolved Project to Include RetroEvolved Icon on 10-1-2017
+Edited by RetroEvolved Project to Include RetroEvolved Icons / settings icons on 10-1-2017
 
 Special thanks to all who helped:
 - modmaster - for helping create additional system backgrounds
